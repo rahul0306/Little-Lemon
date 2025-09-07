@@ -28,7 +28,7 @@ The app simulates a food ordering experience at the Little Lemon restaurant, wit
   - Confirmation screen once reserved
 
 - **Profile**
-  - View account info (name, email, verification status)
+  - View account info (name, email)
   - Access past orders
   - Logout with one tap
 
